@@ -22,12 +22,7 @@ export default function Navbar({ onNavigate, currentPage }: NavbarProps) {
       className="fixed top-0 left-0 right-0 z-50 px-6 py-4"
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between glass px-8 py-3 rounded-full">
-        <div 
-          className="text-xl font-bold tracking-tighter text-white cursor-pointer"
-          onClick={() => onNavigate('home')}
-        >
-          Pavitra
-        </div>
+          Pavitra Subramanian
         
         <div className="hidden md:flex items-center gap-8">
           {navItems.map((item) => (
