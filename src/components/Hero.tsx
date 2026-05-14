@@ -114,7 +114,7 @@ export default function Hero({ onNavigate }: HeroProps) {
               className="relative aspect-[3/4] rounded-[2rem] overflow-hidden border border-white/10 shadow-2xl z-10"
             >
               <img 
-                src="https://drive.google.com/thumbnail?id=1v0UCHoW01Js7_Dv0XdDx_dznwXA5iBdB&sz=w800"
+                src="https://drive.google.com/uc?export=view&id=1v0UCHoW01Js7_Dv0XdDx_dznwXA5iBdB"
                 alt="Pavitra Subramanian"
                 className="w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="origin"
